@@ -1,4 +1,4 @@
-# mc-issue-tracker
+# MC Issue Tracker
 A repository dedicated to tracking issues on my mods/modpacks.
 
 ## Reporting an issue
